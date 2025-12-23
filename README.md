@@ -7,8 +7,6 @@ Reproducible **end-to-end scRNA-seq workflows** — from **raw FASTQs** to **ann
 - **Biological analysis:** downstream interpretation templates (markers, DE, scores, summaries)
 - **Utilities:** reusable helper scripts for large files, metadata handling, HPC runs
 
-> Philosophy: keep it **clean, reproducible, and explainable**. If it can’t be re-run, it didn’t happen. 🙂
-
 ---
 
 ## Requirements
