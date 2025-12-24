@@ -1,3 +1,7 @@
+# Single Cell RNA Sequencing Analysis Workflow
+> Tahila Andrighetti  
+> December 2025
+
 ## Code structure and execution philosophy
 
 This repository collects my **current scRNA-seq analysis workflows**, reflecting how I routinely work with single-cell data in practice. The focus is on **code structure, reproducibility, and analytical logic**, rather than on providing a step-by-step tutorial or discussing biological results in depth.
