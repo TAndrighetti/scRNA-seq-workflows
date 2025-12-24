@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / envs
+.env
+.envs/
+*.lock
+
+# Large data / results
+data/
+results/
+*.h5ad
+*.h5
+*.loom
+*.csv
+*.tsv
+
+# OS
+.DS_Store
